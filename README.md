@@ -24,7 +24,8 @@
 - [Akroma Mobile Wallpapers](http://bit.ly/akroma-mobile-wallpapers-01)
 
 
-#### Whitepaper Translations
+#### VPS referral
+- [VPS] (http://www.digitalocean.com/?refcode=66cae2226ed8) You will get 10$
 
 #### Wallets
 - [Web Wallet](https://wallet.akroma.io/)
